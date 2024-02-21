@@ -1,8 +1,14 @@
 Welcome
 hello world!
 changes
+
 {
 to implement feature 2
 adding one line to enhance feature 2
 }
+
+
+to implement feature 2
+//one line added here to fix bug 1
+// bug1 is fixed with this new line 
 
