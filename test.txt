@@ -3,6 +3,6 @@ hello world!
 changes
 {
 to implement feature 2
-//one line added here to fix bug 1
+adding one line to enhance feature 2
 }
-// bug1 is fixed with this new line 
+
